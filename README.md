@@ -1,5 +1,6 @@
-# Node Coding Challenges
+<img src="https://puu.sh/HyrlI/7adfb911e2.png" width=500 />
 
+#
 A series of **NodeJS coding challenges** with a variety of difficulties.
 
 *Interested in ReactJS? Check out our [React Coding Challenges](https://github.com/alexgurr/react-coding-challenges).*
