@@ -2,6 +2,8 @@
 
 A series of **NodeJS coding challenges** with a variety of difficulties.
 
+*Interested in ReactJS? Check out our [React Coding Challenges](https://github.com/alexgurr/react-coding-challenges).*
+
 &nbsp;
 ## The Challenges
 ### Easy 🙂
