@@ -1,17 +1,13 @@
 <!-- Credit to https://github.com/EddyVerbruggen/Toast-PhoneGap-Plugin for the issue template structure --> 
 
 ## Expected behaviour
-Tell us what should happen.
+<!-- Tell us what should happen. -->
 
 ## Actual behaviour
-Tell us what happens instead. Provide a log message if relevant.
+<!-- Tell us what happens instead. Provide a log message if relevant. -->
 
-## I'm seeing this behaviour on
-<!-- These checkboxes can be ticked like this: [x] -->
-
-- [ ] Desktop
-- [ ] Mobile
-- [ ] N/A
+## I'm seeing this behaviour on Node version
+<!-- eg. 10.0.0 -->
 
 ## OS
 <!-- eg. macOS, Windows -->
