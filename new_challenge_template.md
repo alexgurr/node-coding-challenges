@@ -13,9 +13,6 @@
 
 <!--- eg. Chatter is based on a chat application and tests the user on sockets, socket.io, the ability to use hooks. The user is expected to make the app interactive with the chat server. --> 
 
-## Challenge Screenshots 🌄
-<!--- One desktop & one mobile -->
-
 ## Challenge One Liner 💬
 <!--- A small one liner for documentation --> 
 
@@ -28,9 +25,7 @@
 ## Challenge Checklist ✅
 <!--- Ensure all items have been completed and tick the boxes --> 
 
-- [ ] My app is responsive
-- [ ] All core UI/UX has been built
 - [ ] I have built the solution to a good standard
 - [ ] I have added a README file with clear requirements and prerequisites
 - [ ] I have checked out the solution and made sure it runs
-- [ ] My challenge uses the latest version of ReactJS
+- [ ] My challenge uses the latest version of NodeJS
