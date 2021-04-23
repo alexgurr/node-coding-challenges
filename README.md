@@ -53,3 +53,5 @@ We have an [issue template](https://github.com/alexgurr/node-coding-challenges/b
 - Clear requirements
 - Fun and engaging
 - Accurate difficulty level
+- Realistic -- would someone ever need to build this in real life?
+- Easy to get started (minimal pre-requisites)
